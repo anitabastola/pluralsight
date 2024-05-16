@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9119d87-f79a-4e60-a739-83aa6c4b5171" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../workbook-2/FamousQuotes/src/main/java/com/pluralsight/FamousQuotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../workbook-2/FamousQuotes/src/main/java/com/pluralsight/FamousQuotes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pluralsight-workshops/neighborhood-library/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pluralsight-workshops/neighborhood-library/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pluralsight-workshops/neighborhood-library/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pluralsight-workshops/neighborhood-library/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pluralsight-workshops/neighborhood-library/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pluralsight-workshops/neighborhood-library/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pluralsight-workshops/neighborhood-library/src/main/java/com/pluralsight/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pluralsight-workshops/neighborhood-library/src/main/java/com/pluralsight/NeighborhoodLibrary.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2gBZTssh1R6k5AQCdovosb7jrek" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.CarTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/student.BOSPF3AKKL0.000/Desktop/pluralsight/java-development/workbook-4/intro-to-testing/src/main/java/com/pluralsight/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.pluralsight" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9119d87-f79a-4e60-a739-83aa6c4b5171" name="Changes" comment="" />
+      <created>1715172941516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715172941516</updated>
+    </task>
+    <servers />
+  </component>
+</project>

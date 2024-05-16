@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32b4de23-d233-4134-a295-271421e352ba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../workbook-2/FamousQuotes/src/main/java/com/pluralsight/FamousQuotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../workbook-2/FamousQuotes/src/main/java/com/pluralsight/FamousQuotes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pluralsight-workshops/neighborhood-library/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pluralsight-workshops/neighborhood-library/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pluralsight-workshops/neighborhood-library/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pluralsight-workshops/neighborhood-library/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pluralsight-workshops/neighborhood-library/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pluralsight-workshops/neighborhood-library/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pluralsight-workshops/neighborhood-library/src/main/java/com/pluralsight/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pluralsight-workshops/neighborhood-library/src/main/java/com/pluralsight/NeighborhoodLibrary.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2gCEiXbECokS6hEGHrkHzn0G3tX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.StaticClasses.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32b4de23-d233-4134-a295-271421e352ba" name="Changes" comment="" />
+      <created>1715193288519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715193288519</updated>
+    </task>
+    <servers />
+  </component>
+</project>
