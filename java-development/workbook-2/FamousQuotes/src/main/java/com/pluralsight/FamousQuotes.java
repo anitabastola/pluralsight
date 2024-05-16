@@ -1,9 +1,9 @@
 package com.pluralsight;
 
-import java.util.Random;
 import java.util.Scanner;
+import java.util.Random;
 
-public class QuotesApp {
+public class FamousQuotes {
     public static void main(String[] args) {
         String[] quotes = {
                 "All that glitters is not gold",
