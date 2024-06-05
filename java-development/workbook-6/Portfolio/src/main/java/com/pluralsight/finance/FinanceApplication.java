@@ -1,22 +1,16 @@
-package com.pluralsight.finance;
+package com.pluralsight;
+
+import com.pluralsight.finance.BankAccount;
+import com.pluralsight.finance.Valuable;
 
 public class FinanceApplication {
     public static void main(String[] args) {
-        Portfolio portfolio = new Portfolio("My Portfolio", "Anita");
+        BankAccount account1 = new BankAccount( "Pam", "123", 12500);
+        Valuable account2 = new BankAccount( "Gary","456", 1500);
 
-        BankAccount bankAccount = new BankAccount("Anita", "789", "5000");
-        portfolio.add(bankAccount);
+        // try to deposit money into both accounts
+        account1.deposit(100);
+        // account2.deposit(100);
 
-        House myHouse = new House("My sweet house", "159", 500);
-        portfolio.add(myHouse);
-
-        Gold myGold = new Gold(40);
-        portfolio.add(myGold);
-
-        CreditCard creditCard = new CreditCard("Anita", "258", 946);
-        portfolio.add(creditCard);
-
-        Valuable mostValuable = portfolio.getMostValuable();
-        
     }
 }
